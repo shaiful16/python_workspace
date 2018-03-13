@@ -1,0 +1,9 @@
+Requests==2.18.4
+
+
+Flask==0.12.0
+Jinja2==2.8.1
+
+
+pyqtgraph==0.10.0
+
